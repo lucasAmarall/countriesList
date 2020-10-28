@@ -1,0 +1,1 @@
+export type IRegions = "default" |"africa" |"americas" |"asia" |"europe" |"oceania" | "";
